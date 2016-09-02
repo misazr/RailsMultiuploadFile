@@ -1,0 +1,19 @@
+== README
+
+Application contains 2 models:
+* Post
+* Pets
+
+Model and views relative to Post are about CarrierWave multiupload
+
+http://localhost:3000/posts
+
+------------------------------------
+
+
+Part with pets represent example with uploding single file.
+
+http://localhost:3000/pets
+
+
+
